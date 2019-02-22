@@ -1,0 +1,16 @@
+"""
+The accuracy and the speed displayed in the message box don't really tell the truth here
+"""
+
+print("Hello World!")
+
+string = "Hello World!"
+for i in range(10):
+print(string)
+
+def func(x):
+print(x)
+
+func(string)
+
+# The End!
